@@ -1,2 +1,1 @@
-# MashingLearning
-早期学习笔记
+machine learning 学习笔记
